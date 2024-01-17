@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>D:\Kunal_Workspace\Revit_API\Demo\Demo\bin\Debug\Demo.dll</Assembly>
+		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
+		<FullClassName>Demo.Class1</FullClassName>
+		<Text>Demo-HelloWorld</Text>
+		<VendorId>NAME</VendorId>
+		<VendorDescription>Your Company Information</VendorDescription>
+	</AddIn>
+</RevitAddIns>
